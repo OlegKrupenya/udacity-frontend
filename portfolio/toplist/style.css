@@ -1,0 +1,17 @@
+* {
+    -moz-box-sizing: border-box;
+}
+.app {
+    display: flex;
+}
+.description {
+    color: red;
+}
+
+.title {
+    background-color: #33BEBE;
+}
+
+img {
+    margin-right: 25px;
+}
