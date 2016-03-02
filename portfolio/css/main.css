@@ -1,0 +1,45 @@
+* {
+    color: #747704;
+}
+
+.title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    padding-top: 10px;
+}
+
+.name {
+    font-size: 56px;
+}
+
+.list {
+    color: #BCBBBB;
+}
+
+h2  {
+    padding-left: 30px;
+}
+
+.hr {
+    background-color: #BCBBBB;
+    height: 5px;
+    width: 100%;
+}
+
+.no-padding {
+    padding-right: 0px;
+}
+
+.main-img {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+a {
+    color: #BCBBBB;
+}
