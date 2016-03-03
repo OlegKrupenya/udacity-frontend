@@ -24,7 +24,7 @@ h2  {
 }
 
 .h3-title {
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 .relative {
@@ -35,17 +35,17 @@ h2  {
     background-color: #BCBBBB;
     height: 5px;
     position: absolute;
-    top: 0px;
+    top: 0;
     right: 15px;
     left: 15px;
 }
 
 .no-padding {
-    padding-right: 0px;
+    padding-right: 0;
 }
 
 .main-img {
-    padding-right: 0px;
+    padding-right: 0;
     padding-left: 15px;
     padding-top: 20px;
 }
